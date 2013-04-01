@@ -134,6 +134,11 @@ Podfile.lock
 
 
 ####
-# UNKNOWN: recommended by others, but I can't discover what these files are
+# Yeoman/angular stuff
 #
-# ...none. Everything is now explained.
+# 
+node_modules
+dist
+.tmp
+.sass-cache
+www/components
